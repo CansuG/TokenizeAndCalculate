@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bim207-hw1-2020-CansuG-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bim207_hw1_2020_CansuG_master_jar</output-path>
+    <root id="archive" name="bim207-hw1-2020-CansuG-master.jar">
+      <element id="module-output" name="bim207hw" />
+      <element id="module-output" name="bim207hw (1)" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
